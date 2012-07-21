@@ -1,1 +1,1 @@
-test
+git init gitにリポジトリを作成する
