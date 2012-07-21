@@ -1,1 +1,1 @@
-[gitとsvnの違い]#### リポジトリから作業コピーをチェックアウトします。* svn checkout [URL]* git clone [URL]
+[gitとsvnの違い]#### リポジトリから作業コピーをチェックアウトします。* svn checkout [URL]* git clone [URL]#### 通常ファイル、ディレクトリ、シンボリックリンクを追加します。* svn add ファイル名* git add ファイル名
