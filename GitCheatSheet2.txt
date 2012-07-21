@@ -4,4 +4,8 @@ git pull ほかのリポジトリの変更点をローカルリポジトリに�
 git branch topic 「topic」というブランチを作成する
 git add 変更点をインデックスに登録する
 git commit  変更点をコミットする
+git diff
+git status
+git clean
+git show
 
