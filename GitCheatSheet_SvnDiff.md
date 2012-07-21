@@ -1,1 +1,1 @@
-[gitとsvnの違い]
+[gitとsvnの違い]#### リポジトリから作業コピーをチェックアウトします。* svn checkout [URL]* git clone [URL]
