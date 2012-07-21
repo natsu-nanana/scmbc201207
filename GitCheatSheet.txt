@@ -4,4 +4,4 @@ git pull ほかのリポジトリの変更点をローカルリポジトリに�
 git branch topic 「topic」というブランチを作成する
 git add 変更点をインデックスに登録する
 git commit  変更点をコミットする
-
+git mv old_file.txt new_file_name.txt ファイル名を新しいファイル名に変更する
