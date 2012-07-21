@@ -1,26 +1,27 @@
 
-git branch ƒuƒ‰ƒ“ƒ`‘€ì‚ÉŠÖ‚·‚éƒRƒ}ƒ“ƒh
+git branch ãƒ–ãƒ©ãƒ³ãƒæ“ä½œã«é–¢ã™ã‚‹ã‚³ãƒžãƒ³ãƒ‰
 
-git branch "ƒuƒ‰ƒ“ƒ`–¼"   
-  Œ»Ý‚Ìƒuƒ‰ƒ“ƒ`‚©‚çV‚µ‚¢ƒuƒ‰ƒ“ƒ`‚ðì‚é
+git branch "ãƒ–ãƒ©ãƒ³ãƒå"   
+  ç¾åœ¨ã®ãƒ–ãƒ©ãƒ³ãƒã‹ã‚‰æ–°ã—ã„ãƒ–ãƒ©ãƒ³ãƒã‚’ä½œã‚‹
 
 git branch -r
-  ƒŠƒ‚[ƒg‚Ìƒuƒ‰ƒ“ƒ`–¼‚ð•\Ž¦‚·‚é
+  ãƒªãƒ¢ãƒ¼ãƒˆã®ãƒ–ãƒ©ãƒ³ãƒåã‚’è¡¨ç¤ºã™ã‚‹
 
 git branch -a
-  ƒŠƒ‚[ƒg‚Æƒ[ƒJƒ‹‚Ìƒuƒ‰ƒ“ƒ`–¼‚ð•\Ž¦‚·‚é
+  ãƒªãƒ¢ãƒ¼ãƒˆã¨ãƒ­ãƒ¼ã‚«ãƒ«ã®ãƒ–ãƒ©ãƒ³ãƒåã‚’è¡¨ç¤ºã™ã‚‹
 
-git branch -m "Šù‘¶‚Ìƒuƒ‰ƒ“ƒ`–¼" "V‚µ‚¢ƒuƒ‰ƒ“ƒ`–¼"
-  ƒuƒ‰ƒ“ƒ`‚ÌˆÚ“®or–¼‘O‚Ì•ÏX
+git branch -m "æ—¢å­˜ã®ãƒ–ãƒ©ãƒ³ãƒå" "æ–°ã—ã„ãƒ–ãƒ©ãƒ³ãƒå"
+  ãƒ–ãƒ©ãƒ³ãƒã®ç§»å‹•oråå‰ã®å¤‰æ›´
 
 
 
 
 git checkout
 
-git checkout "ƒuƒ‰ƒ“ƒ`–¼"
-  Žw’è‚µ‚½ƒuƒ‰ƒ“ƒ`‚ðƒ`ƒFƒbƒNƒAƒEƒg‚·‚é
+git checkout "ãƒ–ãƒ©ãƒ³ãƒå"
+  æŒ‡å®šã—ãŸãƒ–ãƒ©ãƒ³ãƒã‚’ãƒã‚§ãƒƒã‚¯ã‚¢ã‚¦ãƒˆã™ã‚‹
 
-git checkout -b "ƒuƒ‰ƒ“ƒ`–¼"
-  Œ»Ý‚Ìƒuƒ‰ƒ“ƒ`‚©‚çV‚µ‚¢ƒuƒ‰ƒ“ƒ`‚ðì‚Á‚ÄA‚»‚ê‚ðƒ`ƒFƒbƒNƒAƒEƒg‚·‚é
+git checkout -b "ãƒ–ãƒ©ãƒ³ãƒå"
+  ç¾åœ¨ã®ãƒ–ãƒ©ãƒ³ãƒã‹ã‚‰æ–°ã—ã„ãƒ–ãƒ©ãƒ³ãƒã‚’ä½œãƒ»ï¾„ã€ãã‚Œã‚’ãƒã‚§ãƒƒã‚¯ã‚¢ã‚¦ãƒˆã™ã‚‹
 
+git commit ç™»éŒ²ã—ãŸå¤‰æ›´å†…å®¹ã‚’ãƒ­ãƒ¼ã‚«ãƒ«ãƒªãƒã‚¸ãƒˆãƒªã«åæ˜ ã•ã›ã‚‹ã€‚
