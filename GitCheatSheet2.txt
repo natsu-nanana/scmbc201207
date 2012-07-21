@@ -1,0 +1,7 @@
+git init gitにリポジトリを作成する
+git clone サーバのソースコードを丸ごと持ってくる
+git pull ほかのリポジトリの変更点をローカルリポジトリにマージする
+git branch topic 「topic」というブランチを作成する
+git add 変更点をインデックスに登録する
+git commit  変更点をコミットする
+
