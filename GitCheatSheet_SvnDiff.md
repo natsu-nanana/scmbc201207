@@ -1,1 +1,1 @@
-[gitとsvnの違い]#### リポジトリから作業コピーをチェックアウトします。* svn checkout [URL]* git clone [URL]
+# gitとsvnの違い#### リポジトリから作業コピーをチェックアウトします。* svn checkout [URL]* git clone [URL]#### 作業コピーからリポジトリに変更点を送信します。* svn  * svn ci* git add  * git add -a * git commit  
