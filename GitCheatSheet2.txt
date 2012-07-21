@@ -11,6 +11,7 @@ git show
 git fetch
 git merge
 
+git tag　一度タグを売ってみてpushしてみる
 
 [github]
 #fork フォーク
