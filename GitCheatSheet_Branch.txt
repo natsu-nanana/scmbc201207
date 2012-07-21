@@ -44,3 +44,6 @@ git add 現在のブランチの変更点をインデックスに追加する
 
 ■git rebase
 　現在のブランチのHEADを<commit>の状態に戻す
+
+■git stash
+  作業を一時的に保存する
